@@ -1,0 +1,1 @@
+Constantly Updating Repo working on AutoAnalyst which takes input path of your files( 1 or multiple), The files could be excels, csvs and parquet and perform data checks, EDA profiling and and speak for the data contains. It has context options where business documents can be uploaded and then converted to vector databases and can be used to perform that particular tasks.
